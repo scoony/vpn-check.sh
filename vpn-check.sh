@@ -8,7 +8,7 @@
 version="Version: 0.0.0.1" #base du système de mise à jour
 description="Surveillance du VPN" #description pour le menu
 description_eng="VPN Oversight" #description pour le menu
-script_pastebin="https://pastebin.com/raw/cz5Hm09d" #emplacement du script original
+script_pastebin="https://raw.githubusercontent.com/scoony/vpn-check.sh/main/vpn-check.sh" #emplacement du script original
 changelog_pastebin="https://pastebin.com/raw/EmMx3prX" #emplacement du changelog de ce script
 langue_fr="https://pastebin.com/raw/6Jm93AM5"
 langue_eng="https://pastebin.com/raw/BvTwP75g"
